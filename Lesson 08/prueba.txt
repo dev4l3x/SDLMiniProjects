@@ -1,0 +1,2 @@
+Unable to load image Lesson 07/1.jpg! SDL_image Error: Couldn't open Lesson 07/1.jpg
+Failed to load texture image!

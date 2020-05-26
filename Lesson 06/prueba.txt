@@ -1,0 +1,12 @@
+SDL_image could not initialize! SDL_image ERROR: Failed loading libjpeg-9.dll: No se puede encontrar el mÃ³dulo especificado.
+
+SDL_image could not initialize! SDL_image ERROR: Failed loading libjpeg-9.dll: No se puede encontrar el mÃ³dulo especificado.
+
+SDL_image could not initialize! SDL_image ERROR: Failed loading libjpeg-9.dll: No se puede encontrar el mÃ³dulo especificado.
+
+Error loading image at path (ýa ! SDL_Error: Couldn't open nature.bmp 
+Unable to load image ! SDL_Error : Couldn't open nature.bmpError loading image at path (ýa ! SDL_Error: Couldn't open up.bmp 
+Unable to load image ! SDL_Error : Couldn't open up.bmpError loading image at path (ýa ! SDL_Error: Couldn't open down.bmp 
+Unable to load image ! SDL_Error : Couldn't open down.bmpError loading image at path (ýa ! SDL_Error: Couldn't open left.bmp 
+Unable to load image ! SDL_Error : Couldn't open left.bmpError loading image at path (ýa ! SDL_Error: Couldn't open right.bmp 
+Unable to load image ! SDL_Error : Couldn't open right.bmp
